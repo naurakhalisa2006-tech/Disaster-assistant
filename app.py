@@ -1,4 +1,3 @@
-
 import streamlit as st
 import json
 import os
@@ -126,7 +125,7 @@ div.stButton > button:hover {
 # MEMBACA DATA
 # =========================
 
-with open("/content/ringkasan_ai.json", encoding="utf-8") as f:
+with open("ringkasan_ai.json", encoding="utf-8") as f:
     data = json.load(f)
 
 api_key = os.getenv("GEMINI_API_KEY")
