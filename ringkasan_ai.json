@@ -1,0 +1,57 @@
+{
+  "total_baris_dataset": 35113,
+  "total_kode_unik_tersedia": 28124,
+  "tahun_dengan_kode_lengkap": [
+    2018,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "catatan_kualitas_data": "Tahun 2019, 2025, dan 2026 tidak digunakan untuk perbandingan tahunan karena kode identitas bencana tidak lengkap.",
+  "jenis_bencana": {
+    "Banjir": 8556,
+    "Cuaca Ekstrem": 7221,
+    "Kebakaran Hutan dan Lahan": 5114,
+    "Tanah Longsor": 4450,
+    "Kekeringan": 452,
+    "Gempa Bumi": 330,
+    "Gelombang Pasang dan Abrasi": 273,
+    "Erupsi Gunung Api": 90,
+    "Tsunami": 7,
+    "Gempa Bumi dan Tsunami": 5
+  },
+  "provinsi": {
+    "Jawa Barat": 4869,
+    "Jawa Tengah": 3621,
+    "Jawa Timur": 2115,
+    "Aceh": 1419,
+    "Kalimantan Selatan": 1251,
+    "Sulawesi Selatan": 1124,
+    "Sumatera Utara": 1106,
+    "Sumatera Barat": 867,
+    "Kalimantan Timur": 787,
+    "Sumatera Selatan": 735
+  },
+  "kabupaten": {
+    "Bogor": 1326,
+    "Sukabumi": 442,
+    "Cilacap": 391,
+    "Kota Bogor": 308,
+    "Bandung": 304,
+    "Ciamis": 286,
+    "Kota Semarang": 269,
+    "Serang": 251,
+    "Banyumas": 229,
+    "Banjar": 225
+  },
+  "tahunan": {
+    "2018": 3522,
+    "2020": 4714,
+    "2021": 5443,
+    "2022": 3581,
+    "2023": 5517,
+    "2024": 3720
+  }
+}
